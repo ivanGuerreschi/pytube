@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # pytube.py
 #
 # Copyright (C) 2023 Ivan Guerreschi

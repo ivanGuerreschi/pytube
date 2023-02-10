@@ -15,3 +15,8 @@ pip3 install PyGObject youtube-dl
 
 ## Run
 python pytube.py
+
+## To run as user
+pip3 install youtube-dl
+chmod +x pytube.dl
+./pytube.py
